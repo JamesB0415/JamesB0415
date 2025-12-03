@@ -12,7 +12,7 @@ My main tech stack is HTML CSS and JavaScript. Will be learning React soon!
 
 I hope you enjoy what you see! 
 
-#Fun Facts:
+# Fun Facts:
 
 * I love Music and can play the Piano, Guitar, Drums and Bass
 * I love hiking
