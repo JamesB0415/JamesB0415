@@ -12,10 +12,11 @@ My main tech stack is HTML CSS and JavaScript. Will be learning React soon!
 
 I hope you enjoy what you see! 
 
-Fun Facts:
-I love Music and can play the Piano, Guitar, Drums and Bass
-I love hiking
-I love to code! 
+#Fun Facts:
+
+* I love Music and can play the Piano, Guitar, Drums and Bass
+* I love hiking
+* I love to code! 
 
 <!--
 **JamesB0415/JamesB0415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
